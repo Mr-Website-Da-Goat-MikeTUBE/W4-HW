@@ -1,0 +1,77 @@
+h1 {
+  color: white;
+  text-align: left;
+  text-shadow: 
+    -1px -1px 0 black,
+     0   -1px 0 black,
+     1px -1px 0 black,
+     1px  0   0 black,
+     1px  1px 0 black,
+     0    1px 0 black,
+    -1px  1px 0 black,
+    -1px  0   0 black; 
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 3.25rem;
+
+}
+
+p, h2
+{
+  color: black;
+  font-family: Tahoma, sans-serif;
+  font-size: 1.125rem;
+}
+
+
+#shadow {
+
+  text-shadow: 0.5px 1px red;
+}
+
+.piss {
+  color: rgb(189, 189, 17); 
+}
+
+
+.moonman {
+  background-color: white; 
+  width: 32.5rem; 
+  padding: 1.5rem;
+  border: 1rem solid skyblue;
+  margin: 1.25rem;
+  border-radius: 1.25rem;
+  border-style: ridge;
+}
+
+p.thingy {
+  position: relative;
+  left: 12.5rem;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 black,
+     0   -1px 0 black,
+     1px -1px 0 black,
+     1px  0   0 black,
+     1px  1px 0 black,
+     0    1px 0 black,
+    -1px  1px 0 black,
+    -1px  0   0 black; 
+  font-family: 'Courier New', monospace;
+  font-size: 1.5rem;
+}
+
+.suck.eggs {
+  color: rgb(238, 215, 174);
+  text-shadow: 
+    -1px -1px 0 rgb(0, 0, 0),
+     0   -1px 0 rgb(238, 215, 174),
+     1px -1px 0 rgb(0, 0, 0),
+     1px  0   0 rgb(238, 215, 174),
+     1px  1px 0 rgb(0, 0, 0),
+     0    1px 0 rgb(238, 215, 174),
+    -1px  1px 0 rgb(0, 0, 0),
+    -1px  0   0 rgb(238, 215, 174); 
+  font-family: Tahoma, sans-serif;
+  font-size: 2rem
+  
+}
